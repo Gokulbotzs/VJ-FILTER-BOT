@@ -107,8 +107,8 @@ VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_Linkl
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'indianshortener.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'e62938def1ed9435ca8f534254f1739d972a9034')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'ez4short.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '12c1b7b0fa5019632bc40c99a8aef7ab195f02ac')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "8")
